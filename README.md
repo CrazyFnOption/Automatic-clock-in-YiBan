@@ -1,2 +1,3 @@
-# leetcode-recording
-daily recording for LeetCode 
+#Automatic clock in
+
+
